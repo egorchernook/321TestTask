@@ -27,7 +27,7 @@ public class SeleniumConfig {
      *                    Google Chrome   => Chrome;
      *                    Yandex          => Yandex;
      *                    Microsoft Edge  => Edge;
-     *                    Opera           => Opera;
+     *                    Opera           => Opera (doesn`t work);
      *                    Mozilla Firefox => Firefox.
      * @throws NullPointerException when browserName is null.
      */

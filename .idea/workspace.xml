@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e707e28-91d1-4468-b0d5-3b6b05f177f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/ConvertLeadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/CreateLeadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/etc/Access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/etc/ConfProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/etc/SeleniumConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/AccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/ContactSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/ConvertLeadPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/ConvertedLeadPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/LeadRecordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/LeadsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/Navbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/pages/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
+    <list default="true" id="4e707e28-91d1-4468-b0d5-3b6b05f177f0" name="Changes" comment="final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/test/etc/SeleniumConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/test/etc/SeleniumConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,8 +157,16 @@
       <workItem from="1658671545126" duration="5321000" />
       <workItem from="1658688557738" duration="19742000" />
       <workItem from="1658827297438" duration="41997000" />
-      <workItem from="1659011985077" duration="31570000" />
+      <workItem from="1659011985077" duration="32123000" />
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1659052292711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659052292711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +182,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
